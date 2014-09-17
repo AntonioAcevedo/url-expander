@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+extraProperties=sonar.jdbc.password\=sonarqube\r\nsonar.jdbc.username\=sonarqube\r\nsonar.jdbc.url\=jdbc\:postgresql\://localhost\:5432/sonar?useUnicode\=true&characterEncoding\=utf8\r\nsonar.host.url\=http\://127.0.0.1\:2468
+projectKey=com.relevante.urlexpander\:urlexpander
+serverUrl=http\://localhost\:9000
+version=2
